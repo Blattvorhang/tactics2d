@@ -6,7 +6,7 @@
 
 ## Our Contributions
 
-- Implemented Standley Controller
+- Implemented Stanley Controller
 
 ## Disclaimer
 

@@ -1,6 +1,19 @@
 ![Tactics2D LOGO](https://cdn.jsdelivr.net/gh/MotacillaAlba/image-storage@main/img/Tactics_LOGO_long.jpg)
 
-# Tactics2D: A Reinforcement Learning Environment Library for Driving Decision-making
+# Tactics2D (Course Project Extension)
+
+> This repository is a course project based on the original [Tactics2D](https://github.com/WoodOxen/tactics2d).
+
+## Our Contributions
+
+- Implemented Standley Controller
+
+## Disclaimer
+
+This project is built upon the original Tactics2D repository.  
+All credits for the base framework go to the original authors.
+
+## Original Project: Tactics2D–A Reinforcement Learning Environment Library for Driving Decision-making
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/2bb48186b56d4e3ab963121a5923d6b5)](https://app.codacy.com/gh/WoodOxen/tactics2d/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Codecov](https://codecov.io/gh/WoodOxen/tactics2d/graph/badge.svg?token=X81Z6AOIMV)](https://codecov.io/gh/WoodOxen/tactics2d)
@@ -19,7 +32,7 @@ EN | [CN](README.CN.md)
 ## About
 
 > [!note]
-> This is the official codebase for Course AU7043 in Shanghai Jiao Tong University.
+> This project is derived from the official codebase for Course AU7043 in Shanghai Jiao Tong University.
 
 `tactics2d` is an open-source Python library that provides diverse and challenging traffic scenarios for the development and evaluation of reinforcement learning-based decision-making models in autonomous driving. `tactics2d` stands out with the following key features:
 

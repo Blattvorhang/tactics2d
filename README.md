@@ -6,7 +6,9 @@
 
 ## Our Contributions
 
-- Implemented Stanley Controller
+- Stanley Controller
+- Car Fowllowing Model
+- Lane Changing Model
 
 ## Disclaimer
 

@@ -7,5 +7,6 @@
 
 from .pid_controller import PIDController
 from .pure_pursuit_controller import PurePursuitController
+from .stanley_controller import StanleyController
 
-__all__ = ["PurePursuitController", "PIDController"]
+__all__ = ["PurePursuitController", "PIDController", "StanleyController"]

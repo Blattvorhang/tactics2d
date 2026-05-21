@@ -6,9 +6,9 @@
 
 ## Our Contributions
 
-- Stanley Controller
-- Car Fowllowing Model
-- Lane Changing Model
+- [Stanley Controller](./docs/tutorial/racing_stanley_demo.ipynb)
+- [Car Fowllowing Model](./homework/AU7043_project_1_2026.py)
+- [Lane Changing Model](./homework/AU7043_project_2_2026.py)
 
 ## Disclaimer
 
